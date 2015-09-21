@@ -1,3 +1,3 @@
 usaco
 =====
-usaco problems
+USA Computing Olympiad problems
